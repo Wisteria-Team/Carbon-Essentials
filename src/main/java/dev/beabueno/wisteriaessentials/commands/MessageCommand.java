@@ -1,7 +1,6 @@
-package dev.beabueno.carbonessentials.commands;
+package dev.beabueno.wisteriaessentials.commands;
 
-import dev.beabueno.carbonessentials.CarbonEssentials;
-import dev.beabueno.carbonessentials.MessageManager;
+import dev.beabueno.wisteriaessentials.MessageManager;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

@@ -1,8 +1,8 @@
-name: Carbon Essentials
+name: Wisteria-Essentials
 version: '${project.version}'
-main: dev.beabueno.carbonessentials.CarbonEssentials
-api-version: 1.18
-prefix: CARBON-ESSENTIALS
+main: dev.beabueno.wisteriaessentials.WisteriaEssentials
+api-version: '1.20'
+prefix: WISTERIA-ESSENTIALS
 authors: [ Bea ]
 description: A Core plugin
 commands:
@@ -26,3 +26,7 @@ commands:
       - r
   kick:
     usage: 'USAGE: /kick <player> [reason]'
+    aliases:
+      - k
+  ban:
+    usage: 'USAGE: /ban <player> [reason]'

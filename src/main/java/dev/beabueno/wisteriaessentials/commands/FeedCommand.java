@@ -1,4 +1,4 @@
-package dev.beabueno.carbonessentials.commands;
+package dev.beabueno.wisteriaessentials.commands;
 
 import org.bukkit.Bukkit;
 import org.bukkit.ChatColor;

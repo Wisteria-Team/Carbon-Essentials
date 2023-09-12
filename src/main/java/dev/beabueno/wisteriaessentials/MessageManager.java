@@ -1,4 +1,4 @@
-package dev.beabueno.carbonessentials;
+package dev.beabueno.wisteriaessentials;
 
 import java.util.HashMap;
 import java.util.UUID;
